@@ -12,19 +12,19 @@ constructor()
               title: 'Hats',
               imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
               id: 1,
-              linkUrl: 'shop/hats'
+              linkUrl: 'hats'
             },
             {
               title: 'Jackets',
               imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
               id: 2,
-              linkUrl: 'shop/jackets'
+              linkUrl: ''
             },
             {
               title: 'Sneakers',
               imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
               id: 3,
-              linkUrl: 'shop/sneakers'
+              linkUrl: ''
             },
             {
               title: 'Womens',
@@ -32,7 +32,7 @@ constructor()
               size: 'large',
               id: 4,
               size: "large",
-              linkUrl: 'shop/womens'
+              linkUrl: ''
             },
             {
               title: 'Mens',
@@ -40,16 +40,17 @@ constructor()
               size: 'large',
               id: 5,
               size: "large",
-              linkUrl: 'shop/mens'
-            }]
-        }
+              linkUrl: ''
+            }
+        ]
+        };
     }
     render() 
     {
         return (
             <div className='directory-menu'>
-                {this.state.section.map(({title, imageUrl,id, size}) => (
-                    <MenuItem key={id} title={title} imageUrl={imageUrl} size ={size}/>
+                {this.state.section.map(({id, ...othersectionProps}) => (
+                    <MenuItem key={id} {...othersectionProps} />
                 ))}
             </div>
         );
@@ -57,4 +58,4 @@ constructor()
     }
 }
 
-export default Directory
+export default Directory;
