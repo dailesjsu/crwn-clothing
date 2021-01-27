@@ -1,17 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="50px" height="39px" viewBox="0 0 50 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
-    <title>Group</title>
-    <desc>Created with Sketch.</desc>
-    <g id="WiP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard" transform="translate(-90.000000, -38.000000)">
-            <g id="Group" transform="translate(90.000000, 38.000000)">
-                <polygon id="Rectangle" fill="#808282" points="3 14 25 26.5 47 14 40.855176 39 9.08421785 39"></polygon>
-                <polygon id="Triangle" fill-opacity="0.262838724" fill="#101A1A" points="25 8 40 39 10 39"></polygon>
-                <circle id="Oval" fill="#5E6363" cx="2" cy="9" r="2"></circle>
-                <circle id="Oval" fill="#5E6363" cx="25" cy="2" r="2"></circle>
-                <circle id="Oval" fill="#5E6363" cx="48" cy="9" r="2"></circle>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="200px" height="80px" viewBox="0 0 300.000000 127.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.10, written by Peter Selinger 2001-2011
+</metadata>
+<g transform="translate(0.000000,127.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M110 620 l0 -510 253 6 c138 3 272 10 297 15 141 31 253 158 289 327
+14 68 14 241 0 317 -25 137 -112 261 -216 311 -71 33 -172 44 -425 44 l-198 0
+0 -510z m605 437 c72 -34 97 -56 140 -122 53 -82 67 -137 72 -280 6 -154 -4
+-217 -53 -314 -41 -83 -91 -131 -170 -162 -55 -22 -75 -24 -306 -27 l-248 -4
+0 472 0 472 253 -4 252 -3 60 -28z"/>
+<path d="M306 971 c-18 -20 -19 -40 -19 -353 0 -404 -18 -368 176 -365 148 3
+184 13 235 68 18 19 42 59 54 89 20 48 23 73 23 210 0 146 -1 158 -26 211 -55
+118 -116 149 -298 156 -119 5 -127 4 -145 -16z m258 -26 c70 -6 118 -42 152
+-111 25 -51 29 -71 32 -176 5 -136 -8 -224 -43 -284 -32 -55 -80 -77 -175 -81
+-41 -2 -105 -4 -142 -6 l-68 -3 0 337 0 337 98 -4 c53 -2 119 -6 146 -9z"/>
+<path d="M1140 623 l0 -508 95 0 96 0 -3 328 c-2 180 0 327 4 327 3 0 20 -24
+37 -54 16 -30 107 -178 202 -330 l171 -276 99 0 99 0 0 510 0 510 -96 0 -95 0
+3 -340 c2 -187 3 -340 2 -340 0 0 -95 153 -209 340 l-208 340 -99 0 -98 0 0
+-507z m211 432 c10 -23 13 -27 145 -242 53 -87 121 -198 152 -248 30 -49 65
+-101 79 -114 48 -46 52 -28 59 322 l7 317 59 0 58 0 0 -470 0 -471 -81 3 -82
+3 -108 175 c-60 96 -123 198 -141 225 -18 28 -41 66 -51 85 -11 19 -25 42 -33
+51 -8 8 -14 20 -14 25 0 5 -13 25 -29 44 -25 29 -32 33 -48 24 -15 -10 -19
+-30 -24 -145 -4 -74 -7 -214 -8 -311 l-1 -178 -60 0 -60 0 0 470 0 469 73 3
+c75 3 93 -3 108 -37z"/>
+<path d="M2167 618 l3 -503 355 -3 355 -2 0 90 0 91 -255 -3 -255 -3 0 418 0
+417 -102 0 -103 0 2 -502z m166 71 c5 -334 8 -394 22 -415 l15 -24 235 0 235
+0 0 -50 0 -50 -320 0 -320 0 0 465 0 465 63 0 64 0 6 -391z"/>
+</g>
 </svg>
